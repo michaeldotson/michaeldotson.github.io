@@ -1,0 +1,19 @@
+<style>
+    body {
+      background-color: #EAF6F6;
+      margin: 20px;
+      border: 20px;
+    }
+    img {
+      border-radius: 50%;
+    }
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      background-color: white;
+      border-width: 5px;
+      width: 10%;
+
+    }
+
+  </style>
